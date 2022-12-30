@@ -1,0 +1,14 @@
+aria-hidden = "true" bu verilen elementi screen readerların okumasına gerek yok demek.
+
+companies sectionunda companylerin logosuna hover olduğunda ilgili logonun rengine bürünmesi de eklendi extreadan :)
+ilk başta logoları soldurduk sonra hover ile orjinal renklerine döndürülüyor.
+
+unset -> daha önceden bir işlem yaptıysan onu siler hiç setlenmemiş gibi yapar.
+ezer yani bir bakıma default haline getirir.
+
+
+Responsive de sen uğraş hamburger menü yap header kısmı patlıyor
+oraları falan düzelt! 
+
+Faq itemleri açarken displaylere transition verilmediği için başka yol denendi bakarsın(videonun son anlarında)
+transition 500ms 250ms ---> 500ms lik transition ver 250 ms delay ile anlamında.
